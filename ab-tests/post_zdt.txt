@@ -1,0 +1,8 @@
+{
+    "id": "24965fec-0c08-4c2c-95d2-11b22db43468",
+    "category": "default",
+    "type": "zone_dt",
+    "zoneId": "zone0001",
+    "assetDigitalTwinList": ["adt0001", "adt00001", "adt00003"],
+    "borderRouterDigitalTwinList": ["ndt0001", "ndt0002"]
+}
